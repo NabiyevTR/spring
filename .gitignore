@@ -1,0 +1,6 @@
+
+*.class
+
+lesson1/target/
+
+.idea/
