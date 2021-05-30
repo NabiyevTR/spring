@@ -10,3 +10,13 @@ lesson2/target/classes/META-INF/lesson2.kotlin_module
 lesson1/lesson1.iml
 
 spring.iml
+
+lesson3/target/
+
+
+
+*.iml
+
+lesson3/target/lesson3/META-INF/
+
+lesson3/target/lesson3/WEB-INF/classes/
